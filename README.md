@@ -2,7 +2,7 @@
 
 > [Българска версия тук](README-BG.md)
 
-Welcome to our open-source collection of production-ready AI prompts. This repository is maintained by [Nymerix LTD.] to help developers, product managers, and business professionals leverage LLMs (such as ChatGPT) effectively and safely in their daily workflows.
+Welcome to our open-source collection of production-ready AI prompts. This repository is maintained by Nymerix LTD. to help developers, product managers, and business professionals leverage LLMs (such as ChatGPT) effectively and safely in their daily workflows.
 
 Our goal is to share structured, high-context prompts that deliver reliable and professional results.
 
